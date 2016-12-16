@@ -3,6 +3,6 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: bbbb
-  host: bbbb
-  disk_quota: 1024M
+  name: sessiontest-myhong1
+  host: sessiontest-myhong1
+  disk_quota: 512M
